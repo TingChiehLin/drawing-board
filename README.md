@@ -4,7 +4,7 @@ This project is about drawing with different color and you are able to reset ori
 
 ## Learning with Jay Lin
 
-[Jay Lin XR](https://www.youtube.com/channel/UC1rMgKD4Rn-7aVcymjlvhfQ/) tutorial
+[Jay Lin XR](https://youtu.be/zEsHrX1xdC8) tutorial
 
 ## What skills I use
 
@@ -41,6 +41,9 @@ You can see [https://drawingboard-app-cooloojayoo.vercel.app](https://drawingboa
 ### Official Document
 
 • [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+
 • [CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
 • [getBoundingClientRect](https://www.digitalocean.com/community/tutorials/js-getboundingclientrect)
+
 • [Redux ToolKit](https://redux-toolkit.js.org/tutorials/quick-start)
