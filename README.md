@@ -36,7 +36,7 @@ This project is about drawing with different color and you are able to reset ori
 
 ### Demo
 
-You can see [https://todoapp-cooloojayoo.vercel.app](https://todoapp-cooloojayoo.vercel.app)
+You can see [https://drawingboard-app-cooloojayoo.vercel.app](https://drawingboard-app-cooloojayoo.vercel.app)
 
 ### Official Document
 

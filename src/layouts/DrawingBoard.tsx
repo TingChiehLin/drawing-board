@@ -26,7 +26,7 @@ const DrawingBoard = () => {
 
         const context: CanvasRenderingContext2D = canvas.getContext("2d") as CanvasRenderingContext2D;
         context.lineCap = "round"
-        context.strokeStyle = color
+        context.strokeStyle = "black"
         context.lineWidth = 10
         contextRef.current = context
     }, [time]);
